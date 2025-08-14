@@ -31,6 +31,5 @@
 </div>
 <br>
 <h1>📊 Metrics</h1>
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="500" align="center">
-</p>
+<img src="/github-metrics.svg" alt="Metrics" width="500">
+<img src="https://streak-stats.demolab.com?user=alessandrofelici&theme=slateorange&hide_border=true&mode=weekly">

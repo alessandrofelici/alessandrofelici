@@ -16,5 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: ""
+          plugin_introduction: no
+          plugin_isocalendar: no
           plugin_languages: yes
           token: ${{ secrets.METRICS_TOKEN }}

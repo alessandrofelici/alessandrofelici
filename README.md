@@ -4,7 +4,7 @@
   <br>
   🔆 Interested in software development, data analytics, and quantum computing
   <br>
-  🎯 Currently learning to perform the calisthenics planche hold
+  🎯 Currently learning to perform the calisthenics frog hold
 </p>
 <div>
   <h1>🛠️ Developer Tools</h1>

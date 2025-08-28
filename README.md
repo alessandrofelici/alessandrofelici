@@ -30,5 +30,5 @@
 <br>
 <h1>📊 Metrics</h1>
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="500"> -->
-<img src="https://streak-stats.demolab.com?user=alessandrofelici&theme=slateorange&hide_border=true&mode=weekly">
+<img src="https://github-readme-streak-stats-sable-omega.vercel.app?user=alessandrofelici&theme=city-lights&hide_border=true&mode=weekly">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=alessandrofelici&theme=prussian&hide=stars,contribs&show_icons=true" width=500> -->

@@ -20,5 +20,7 @@ jobs:
           
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: dockerfile, shell, procfile
-          plugin_languages_skipped: github-readme-streak-stats
+          plugin_languages_ignored: dockerfile, shell, procfile, Cython
+          plugin_languages_skipped: 
+            github-readme-streak-stats
+            Bell-Inequality

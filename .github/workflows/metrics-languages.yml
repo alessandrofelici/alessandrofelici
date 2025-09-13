@@ -23,6 +23,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes
           plugin_languages_ignored: dockerfile, shell, procfile, Cython
+          commits_authoring: Alessandro Felici, alessandrofelici, alessandrofelici@users.noreply.github.com
           plugin_languages_skipped: 
             github-readme-streak-stats
             Bell-Inequality
